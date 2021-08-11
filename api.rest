@@ -1,0 +1,7 @@
+GET https://ou3e0b2209.execute-api.ap-southeast-1.amazonaws.com/dev/products
+###
+
+GET https://ou3e0b2209.execute-api.ap-southeast-1.amazonaws.com/dev/products/similique
+###
+
+DELETE https://ou3e0b2209.execute-api.ap-southeast-1.amazonaws.com/dev/products/similique
